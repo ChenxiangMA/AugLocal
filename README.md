@@ -1,5 +1,5 @@
 # AugLocal
-This repo contains the PyTorch implementation of the paper: Scaling Supervised Local Learning with Augmented Auxiliary Networks. (ICLR 2024). [[OpenReview](https://https://openreview.net/forum?id=Qbf1hy8b7m)]
+This repo contains the PyTorch implementation of the paper: Scaling Supervised Local Learning with Augmented Auxiliary Networks. (ICLR 2024). [[OpenReview](https://openreview.net/forum?id=Qbf1hy8b7m)]
 
 <p align="center">
     <img src="imgs/illustration.png" width= "900">
