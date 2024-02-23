@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 torchrun --nproc_per_node=8 --master_port 31161 imagenet_DDP.py --net resnet34 --local_module_num 17 --aux_net_config unifSamp --epochs 200 --batch_size 1024 --aux_net_depth 4
